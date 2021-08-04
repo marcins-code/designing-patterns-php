@@ -1,9 +1,9 @@
-##Factory method
+## Factory method
 Factory method id pattern that provide interface to create object in superclass, but allows subclasses
 to change type of created objects.
 
 ---
-###Implementation
+### Implementation
 
 1. All products should implement the same interface that declare methods make sense for all products.
 2. Create creation abstract class with empty abstract factory method. Return type should be common with product interface.
