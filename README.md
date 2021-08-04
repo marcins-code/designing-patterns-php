@@ -1,6 +1,7 @@
 ##Factory method
 Factory method id pattern that provide interface to create object in superclass, but allows subclasses
 to change type of created objects.
+
 ---
 ###Implementation
 
