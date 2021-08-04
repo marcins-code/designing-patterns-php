@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "src"
+    }
+  },
+    "name": "marcin/designing-patterns",
+    "authors": [
+        {
+            "name": "marcin",
+            "email": "marcinpaczkowski@icloud.com"
+        }
+    ],
+    "require": {}
+}
